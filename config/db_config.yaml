@@ -1,0 +1,4 @@
+sqlite_db:
+    db_name: new_task
+    table_name: task
+    db_location: C:\\Users\\santosh.a.d.kulkarni\\PycharmProjects\\task_mgmt_software_alpha_v1\\database\\
